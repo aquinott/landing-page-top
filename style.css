@@ -135,6 +135,7 @@ a {
    font-weight: 700;
    display: flex;
    justify-content: end;
+   margin-top: 24px;
  }
 
  .fourth-block {
