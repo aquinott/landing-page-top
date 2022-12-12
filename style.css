@@ -70,5 +70,37 @@ a {
 
  }
 
+ .second-block {
+   background-color: #f9faf8;
+ }
 
+ .random {
+   text-align: center;
+   font-size: 48px;
+    font-weight: 1000;
+    padding: 32px;
 
+ }
+
+ .images {
+   display: flex;
+   justify-content: space-around;
+ 
+ }
+
+ .texts {
+   display: flex;
+   justify-content: space-around;
+ }
+
+ img {
+   height: 200px;
+   width: 200px;
+   border-radius: 50%;
+ }
+
+ p {
+   height: 200px;
+   width: 200px;
+   text-align: center;
+ }
